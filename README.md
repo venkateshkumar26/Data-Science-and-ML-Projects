@@ -104,8 +104,3 @@ _And more projects to be added..._
 - Matplotlib, Seaborn  
 - SQL / MongoDB  
 - Vector databases (Pinecone / Chroma)  
-
----
-
-## 🏗️ Repository Structure
-
