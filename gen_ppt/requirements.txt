@@ -1,0 +1,15 @@
+fastapi==0.110.0
+uvicorn==0.29.0
+
+torch                     
+diffusers==0.26.3
+transformers==4.38.0
+accelerate==0.27.2
+safetensors==0.4.2
+Pillow==10.2.0
+
+python-pptx==0.6.23
+
+openai==1.14.2
+
+requests==2.31.0
